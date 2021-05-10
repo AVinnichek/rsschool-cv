@@ -1,2 +1,1 @@
-# rsschool-cv 
-# test
+# https://avinnichek.github.io/rsschool-cv/cv
